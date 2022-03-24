@@ -1,6 +1,6 @@
 /**
- *  LG Connector (v.0.0.15)
- *
+ *  LG Connector (v.0.0.16)
+ *  silly
  * MIT License
  *
  * Copyright (c) 2018 fison67@nate.com
